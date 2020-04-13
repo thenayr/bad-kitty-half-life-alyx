@@ -4,6 +4,8 @@ A custom horror themed map / tutorial for Half-Life Alyx custom mapping.
 
 ![Map screenshot](https://i.imgur.com/tCjjkV5.jpg)
 
+Small preview available on youtube - https://www.youtube.com/watch?v=IhtM_73PTpU
+
 This is my first ever Hammer map and was an exercise for me to learn some of the basics of custom Half-Life Alyx mapping utilizing Hammer and Source engine 2. 
 
 This was 100% built using the "unofficial" Half-Life Alyx SDK script that I wrote, it's available here -> https://github.com/thenayr/Half-Life-Alyx-SDK
