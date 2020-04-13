@@ -1,0 +1,34 @@
+.ChapterTitle
+{
+	width: 100%;
+	height: 100%;
+	horizontal-align: center;
+	vertical-align: center;
+	font-family: Raju;
+	font-weight: semi-bold;
+    color: red;
+    text-transform: uppercase;
+	flow-children: down;
+}
+
+.ChapterName {
+	margin-top: 0px;
+	horizontal-align: center;
+	vertical-align: bottom;
+	text-align: center;
+	border: 0px solid red;
+	font-size:400px;
+    text-transform: uppercase;
+	opacity: 0;
+	transition-property: opacity; 
+	transition-duration: 2s; 
+}
+
+.FadeIn .ChapterName,
+{
+	opacity: 1;
+}
+.FadeOut .ChapterName,
+{
+	opacity: 0;
+}

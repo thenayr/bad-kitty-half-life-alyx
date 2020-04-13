@@ -1,0 +1,13 @@
+<root>
+	<styles>
+		<include src="file://{resources}/styles/bad-kitty.css" />
+	</styles>
+
+	<Panel class="ChapterTitle">
+		<Panel id="EmptyContainer" />
+		<Panel class="ChapterName">
+			<Label text="BAD KITTY" />
+		</Panel>
+		<Panel id="EmptyContainer" />
+	</Panel>
+</root>
